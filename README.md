@@ -28,11 +28,21 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/tharindu-sandaruwan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tharindu-sandaruwan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tharindu-sandaruwan&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+
+|                                                                     Tharindu's Stats                                                                     |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=tharindu-sandaruwan&show_icons=true&theme=algolia)              | 
+| ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tharindu-sandaruwan&theme=algolia)                    | 
+    
+
+|                                                                                                      Tharindu's Stars                                                                                                       |                                                           Top Languages                                                           |      
+|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=tharindu-sandaruwan&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tharindu-sandaruwan&langs_count=8&theme=algolia&layout=compact) |
+
+
+
+
+<table style="border: none">
+  
 
 
