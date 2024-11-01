@@ -33,7 +33,11 @@
 ### Frontend  
 
 <div align="center">  
-
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,kubernetes,docker,c,vim" />
+  </a>
+</p>
 </div>
 
 </td><td valign="top" width="33%">
