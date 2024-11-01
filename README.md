@@ -26,39 +26,74 @@
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="25%">
+
+### Backend Languages  
+
+ <div align="center">
+        <p align="center">
+          <a href="https://go-skill-icons.vercel.app/">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=java,php,nodejs" />
+          </a>
+        </p>
+      </div>
+
+</td><td valign="top" width="25%">
 
 
 
-### Frontend  
+### Frontend Languages 
+<div align="center">
+        <p align="center">
+          <a href="https://go-skill-icons.vercel.app/">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript" />
+          </a>
+        </p>
+      </div>
 
-<div align="center">  
-<p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,kubernetes,docker,c,vim" />
-  </a>
-</p>
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
- 
-</div>
-
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 
 
-### Tools & Technologies  
-<div align="center">  
+### Frameworks 
+<div align="center">
+        <p align="center">
+          <a href="https://go-skill-icons.vercel.app/">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=react,tailwindcss,bootstrap,spring" />
+          </a>
+        </p>
+        <p align="center">
+          <a href="https://go-skill-icons.vercel.app/">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=expressjs" />
+          </a>
+        </p>
+      </div>
 
-</div>
+</td>
 
-</td></tr></table>  
+<td valign="top" width="25%">
+
+
+### Tools & Technologies 
+<div align="center">
+        <p align="center">
+          <a href="https://go-skill-icons.vercel.app/">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=github,git,figma,eclipse" />
+          </a>
+        </p>
+        <p align="center">
+          <a href="https://go-skill-icons.vercel.app/">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=idea,maven,postman,mongodb" />
+          </a>
+        </p>
+        <p align="center">
+          <a href="https://go-skill-icons.vercel.app/">
+            <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,ubuntu" />
+          </a>
+        </p>
+      </div>
+
+</tr></table>  
 
 
 
