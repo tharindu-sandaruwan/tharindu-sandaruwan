@@ -1,7 +1,9 @@
 
  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="5%" />
  
- ## Hi👋 , I'm Tharindu Sandaruwan
+ # Hi👋 , I'm Tharindu Sandaruwan
+
+### About Me:
 
 - 👨‍🎓 4th year Software engineering Undergraduate at SLIIT
 
