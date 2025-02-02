@@ -11,8 +11,8 @@
 
 <p align="left">
 Connect with me:&nbsp
-<a href="https://linkedin.com/in/tharindusandaruwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharindu-sandaruwan" height="20" width="20" /></a>&nbsp;
+<a href="https://linkedin.com/in/tharindusandaruwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharindusandaruwan" height="20" width="20" /></a>&nbsp;
 <a href="https://fb.com/tharindusandaruwan13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharindusandaruwan13" height="20" width="20" /></a>&nbsp;
-<a href="https://instagram.com/tharindusandaruwan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tharindu-sandaruwan" height="20" width="20" /></a>
+<a href="https://instagram.com/tharindusandaruwan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tharindusandaruwan" height="20" width="20" /></a>
 </p>
 
