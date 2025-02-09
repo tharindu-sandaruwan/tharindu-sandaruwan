@@ -1,7 +1,7 @@
 
  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="5%" />
  
- # Hi👋 , I'm Tharindu Sandaruwan
+ # Hi there👋 , I'm Tharindu Sandaruwan
 
 ### About Me:
 
