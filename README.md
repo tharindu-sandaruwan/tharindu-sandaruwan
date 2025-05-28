@@ -55,28 +55,26 @@
     
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)   ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
 
-  <hr>
-
-### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tharindu-sandaruwan&theme=algolia" alt="thari1"  /></p>
-
 <hr>
+
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
 <div align="center">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharindu-sandaruwan&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
+
 <img height="200em" src="https://github-readme-stats.vercel.app/api/?username=tharindu-sandaruwan&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharindu-sandaruwan&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/> 
+
 </div>
- 
-<br>
+<hr>
+
 <h3 align="left">Activity:</h3>
 
 ![alt text](https://github-readme-activity-graph.vercel.app/graph?username=tharindu-sandaruwan&custom_title=Tharindu's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=1F75FE&line=1F75FE&point=1F75FE&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
 
-<hr>
+
 
 
 
