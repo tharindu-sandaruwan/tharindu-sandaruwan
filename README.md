@@ -18,6 +18,16 @@ r><p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/Kev
 
 - 📫 How to reach me **tharindusandaruwan011@gmail.com**
 
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+
+</div>
 
   <hr>
 <h3 align="left">Languages : </h3> 
@@ -58,8 +68,11 @@ r><p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/Kev
 <img height="200em" src="https://github-readme-stats.vercel.app/api/?username=tharindu-sandaruwan&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-stats"/>
 </div>
  
-
 <br>
+<h3 align="left">Activity:</h3>
+
+![alt text](https://github-readme-activity-graph.vercel.app/graph?username=tharindu-sandaruwan&custom_title=Tharindu's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=1F75FE&line=1F75FE&point=1F75FE&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
 
 
 <hr>
