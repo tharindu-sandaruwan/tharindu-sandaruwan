@@ -18,12 +18,6 @@
 
 - 📫 How to reach me **tharindusandaruwan011@gmail.com**
 
-<p align="left">
-Connect with me:&nbsp
-<a href="https://linkedin.com/in/tharindusandaruwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharindu-sandaruwan" height="20" width="20" /></a>&nbsp;
-<a href="https://fb.com/tharindusandaruwan13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tharindusandaruwan" height="20" width="20" /></a>&nbsp;
-<a href="https://instagram.com/tharindusandaruwan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tharindusandaruwan31" height="20" width="20" /></a>
-</p>
 
   <hr>
 
@@ -33,10 +27,16 @@ Connect with me:&nbsp
 <hr>
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+
+ <p align="center">
+<a href="https://github.com/azizovrafael">
+   <img src="https://github-readme-stats.vercel.app/api?username=tharindu-sandaruwan&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
+  <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tharindu-sandaruwan&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharindu-sandaruwan&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=tharindu-sandaruwan&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
+
+<br>
 
 
 <hr>
