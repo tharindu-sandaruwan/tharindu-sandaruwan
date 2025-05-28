@@ -1,1 +1,1 @@
-[![ProfileBanner](https://github.com/Davekibh/Davekibh/blob/main/Images/Banner%20Image.png)](https://Davekibh.github.io)
+![ProfileBanner](https://github.com/tharindu-sandaruwan/tharindu-sandaruwan/blob/main/i1.png)
